@@ -1,1 +1,1 @@
-Unsupervised Learning customer segmentation: k-means analysis Silhouette score/Elbow method, Hierarchical dendrogram, dimensionality reduction, k-means clustering on PCA and t-SNE components. EDA cluster analysis.
+Customer segmentation with Unsupervised Learning: k-means analysis Silhouette score/Elbow method, Hierarchical dendrogram, dimensionality reduction, k-means clustering on PCA and t-SNE components. EDA cluster analysis.
